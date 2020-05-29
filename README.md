@@ -7,7 +7,9 @@
 ![alt text](https://github.com/CCGIRLS/Dicas-git/blob/master/image/0002.jpg)
 
 
-Caso deseje aprender mais funções sobre o Github, recomendamos este repositorio logo abaixo.
+Caso deseje aprender mais funções sobre o Github, recomendamos dois repositorio logo abaixo.
+
+               https://github.com/mateusKoppe/git-guia-basico
 
                https://github.com/DanielHe4rt/git4noobs
                
